@@ -2,7 +2,7 @@ import librosa
 import numpy as np
 from scipy.signal import lfilter, butter
 
-import Voice2Vec.sigproc
+import Voice2Vec.sigproc as sigproc
 import Voice2Vec.constants as c
 
 
